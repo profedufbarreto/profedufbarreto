@@ -1,4 +1,4 @@
-# Olá! 👋 Sou Eduardo
+# Olá! 👋 Sou o prof Edu ou Dudu (como muitos me chamam)
 
 Sou professor de Informática e TI com uma paixão por desmistificar o mundo da tecnologia! Minha jornada é transformar desafios em soluções e, claro, aprender cada vez mais com cada código, entendendo a lógica por debaixo de tudo para compartilhar esse conhecimento. **Adoro o mundo Linux**, e já utilizei diversas distribuições como Ubuntu, Kali, Debian, Mint, Zorin, Fedora e Ubuntu Bugdie. Porém minhas PREFERIDAS são Elementary OS e Ubuntu (as que uso no dia a dia).
 
