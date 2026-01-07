@@ -37,7 +37,7 @@ Estou focado em aprofundar meus conhecimentos em:
 ---
 
 # 📊 Estatísticas do GitHub
-![Estatísticas do profedufbarreto](https://github-readme-stats.vercel.app/api?username=profedufbarreto&show_icons=true&theme=dracula)
+![Estatísticas do profedufbarreto](https://github-readme-stats.vercel.app/api?username=profedufbarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 # 🚀 Linguagens mais usadas
 ![Linguagens do profedufbarreto](https://github-readme-stats.vercel.app/api/top-langs/?username=profedufbarreto&layout=compact&theme=dracula)
