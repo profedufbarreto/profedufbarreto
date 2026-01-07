@@ -36,11 +36,11 @@ Estou focado em aprofundar meus conhecimentos em:
 
 ---
 
-# 📊 Estatísticas do GitHub
-![Estatísticas do profedufbarreto](https://github-readme-stats.vercel.app/api?username=profedufbarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+# 🔥 Meu Streak de Contribuições
+![Streak de profedufbarreto](https://github-readme-streak-stats.herokuapp.com/?user=profedufbarreto&theme=dracula)
 
-# 🚀 Linguagens mais usadas
-![Linguagens do profedufbarreto](https://github-readme-stats.vercel.app/api/top-langs/?username=profedufbarreto&layout=compact&theme=dracula)
+# 📊 Estatísticas Gerais (Alternativa)
+![Estatísticas de profedufbarreto](https://github-readme-stats.vercel.app/api?username=profedufbarreto&show_icons=true&theme=dracula&include_all_commits=true)
 
 ---
 
