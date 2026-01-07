@@ -38,7 +38,9 @@ Estou focado em aprofundar meus conhecimentos em:
 
 ### 📊 Estatísticas do GitHub
 
-[![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardofbarreto&show_icons=true&theme=dracula&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Eduardo GitHub Stats][![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduardofbarreto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Eduardofbarreto)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardofbarreto&layout=compact&theme=dracula)](https://github.com/Eduardofbarreto)
 
 ---
 
